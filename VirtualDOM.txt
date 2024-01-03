@@ -1,0 +1,3 @@
+createroot behind the scene create a dom like structure and then campare both doms and update only those which are updated this is called virtual dom
+
+React fiber 
